@@ -1,0 +1,22 @@
+/* MapComponent.css */
+
+/* Style for the map container */
+.map-container {
+    height: 400px; /* Set the height of the map container */
+    width: 100%; /* Set the width of the map container */
+  }
+  
+  /* Style for map popups */
+  .leaflet-popup-content {
+    font-size: 14px; /* Set the font size of the popup content */
+    padding: 10px; /* Add padding inside the popup content */
+  }
+  
+  /* Style for map markers */
+  /* .leaflet-marker-icon { */
+    /* Customize marker icon styles, such as size or color */
+  /* } */
+  
+  /* Additional styles for map elements */
+  /* Add more CSS rules to customize other map elements */
+  
